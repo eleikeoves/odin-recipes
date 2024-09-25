@@ -11,47 +11,26 @@ button{
     color: black
 }
 
-.rcpbtn {
+.centered-blocks {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
-h1 {
+.centered-texts-lists {
     text-align: center;
+    list-style-position: inside;
+}
+
+.centered-texts-lists h1,h4,p,ul,ol,strong {
+    text-align: center;
+    list-style-position: inside; 
+}
+h1 {
     color: #5dff35;
 }
 
 h4 {
-    text-align: center;
     color:#55e432;
     font-size: 28px;    
-}
-
-p {
-    text-align: center;
-}
-
-.rcpul {
-    text-align: center;
-    list-style-position: inside;
-}
-
-.rcpol {
-    text-align: center;
-    list-style-position: inside;
-}
-
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-
-}
-
-.mnul {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-
 }
