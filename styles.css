@@ -1,0 +1,57 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    background-color: #1b1c20;
+    color: #46c027
+}
+
+button{
+    font-size: 60px;
+    background-color: #b39d3e;
+    color: black
+}
+
+.rcpbtn {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+    color: #5dff35;
+}
+
+h4 {
+    text-align: center;
+    color:#55e432;
+    font-size: 28px;    
+}
+
+p {
+    text-align: center;
+}
+
+.rcpul {
+    text-align: center;
+    list-style-position: inside;
+}
+
+.rcpol {
+    text-align: center;
+    list-style-position: inside;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.mnul {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
